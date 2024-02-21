@@ -56,7 +56,7 @@
 
  
 
-测试网址：http://write.api.thisonegpt.com/pc/
+测试网址：[http://write.api.thisonegpt.com/pc/](http://write.infra.thisonegpt.com)
 
 截图：
 ![img text](https://github.com/Andrew-hch/AI-Paper-WriteGPT/blob/main/img/img1.jpg) 
